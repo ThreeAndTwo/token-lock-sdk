@@ -1,0 +1,6 @@
+.idea
+logs/
+.DS_Store
+config.yaml
+conf/dex.json
+/conf/dex.json
