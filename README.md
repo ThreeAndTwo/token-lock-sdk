@@ -7,9 +7,7 @@
     https://mudra.website/
 
 ### pinkSale
-    
+    https://www.pinksale.finance/
 
-### unicrypt
-    https://app.unicrypt.network/
 
 
